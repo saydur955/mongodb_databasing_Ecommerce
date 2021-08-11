@@ -1,0 +1,6 @@
+config.env
+build/
+node_modules/
+src/controllerDEV/
+src/routesDEV/
+calculate.txt
